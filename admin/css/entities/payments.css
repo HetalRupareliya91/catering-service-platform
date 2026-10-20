@@ -1,0 +1,3 @@
+/* Payments admin panel styles */
+.table--payments th { border-bottom-color: hsl(169, 62%, 46%); }
+.table--payments tbody tr:hover { background: hsl(169, 70%, 97%); }
