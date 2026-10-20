@@ -1,0 +1,3 @@
+/* Customers admin panel styles */
+.table--customers th { border-bottom-color: hsl(247, 62%, 46%); }
+.table--customers tbody tr:hover { background: hsl(247, 70%, 97%); }
