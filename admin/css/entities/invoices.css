@@ -1,0 +1,3 @@
+/* Invoices admin panel styles */
+.table--invoices th { border-bottom-color: hsl(122, 62%, 46%); }
+.table--invoices tbody tr:hover { background: hsl(122, 70%, 97%); }
