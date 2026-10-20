@@ -1,0 +1,3 @@
+/* Bookings admin panel styles */
+.table--bookings th { border-bottom-color: hsl(294, 62%, 46%); }
+.table--bookings tbody tr:hover { background: hsl(294, 70%, 97%); }
