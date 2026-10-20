@@ -1,0 +1,4 @@
+/* Events admin mobile layout */
+@media (max-width: 640px) {
+  .table--events tbody tr { border-left: 4px solid hsl(200, 62%, 46%); }
+}
