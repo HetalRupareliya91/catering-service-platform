@@ -1,0 +1,4 @@
+/* Vendors admin mobile layout */
+@media (max-width: 640px) {
+  .table--vendors tbody tr { border-left: 4px solid hsl(28, 62%, 46%); }
+}
