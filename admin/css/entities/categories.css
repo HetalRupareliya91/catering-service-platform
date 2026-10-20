@@ -1,0 +1,3 @@
+/* Categories admin panel styles */
+.table--categories th { border-bottom-color: hsl(12, 62%, 46%); }
+.table--categories tbody tr:hover { background: hsl(12, 70%, 97%); }

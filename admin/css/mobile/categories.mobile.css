@@ -1,0 +1,4 @@
+/* Categories admin mobile layout */
+@media (max-width: 640px) {
+  .table--categories tbody tr { border-left: 4px solid hsl(12, 62%, 46%); }
+}
