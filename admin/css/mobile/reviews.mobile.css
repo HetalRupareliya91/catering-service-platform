@@ -1,0 +1,4 @@
+/* Reviews admin mobile layout */
+@media (max-width: 640px) {
+  .table--reviews tbody tr { border-left: 4px solid hsl(216, 62%, 46%); }
+}
