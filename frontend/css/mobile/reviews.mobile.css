@@ -1,0 +1,4 @@
+/* Reviews cards on phones */
+@media (max-width: 720px) {
+  .card--reviews { border-top-width: 0; border-left: 4px solid hsl(216, 62%, 46%); padding: 14px 16px; }
+}
