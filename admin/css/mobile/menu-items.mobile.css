@@ -1,0 +1,4 @@
+/* Menu Items admin mobile layout */
+@media (max-width: 640px) {
+  .table--menu-items tbody tr { border-left: 4px solid hsl(59, 62%, 46%); }
+}
