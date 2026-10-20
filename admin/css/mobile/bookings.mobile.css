@@ -1,0 +1,4 @@
+/* Bookings admin mobile layout */
+@media (max-width: 640px) {
+  .table--bookings tbody tr { border-left: 4px solid hsl(294, 62%, 46%); }
+}
