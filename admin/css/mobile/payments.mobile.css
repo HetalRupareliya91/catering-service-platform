@@ -1,0 +1,4 @@
+/* Payments admin mobile layout */
+@media (max-width: 640px) {
+  .table--payments tbody tr { border-left: 4px solid hsl(169, 62%, 46%); }
+}
