@@ -1,0 +1,3 @@
+/* Inventory admin panel styles */
+.table--inventory th { border-bottom-color: hsl(75, 62%, 46%); }
+.table--inventory tbody tr:hover { background: hsl(75, 70%, 97%); }
