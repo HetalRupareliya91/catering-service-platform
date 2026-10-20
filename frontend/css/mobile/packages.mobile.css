@@ -1,0 +1,4 @@
+/* Packages cards on phones */
+@media (max-width: 720px) {
+  .card--packages { border-top-width: 0; border-left: 4px solid hsl(106, 62%, 46%); padding: 14px 16px; }
+}
