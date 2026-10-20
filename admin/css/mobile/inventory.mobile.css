@@ -1,0 +1,4 @@
+/* Inventory admin mobile layout */
+@media (max-width: 640px) {
+  .table--inventory tbody tr { border-left: 4px solid hsl(75, 62%, 46%); }
+}
