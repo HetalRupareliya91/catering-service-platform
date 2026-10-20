@@ -1,0 +1,3 @@
+/* Venues admin panel styles */
+.table--venues th { border-bottom-color: hsl(153, 62%, 46%); }
+.table--venues tbody tr:hover { background: hsl(153, 70%, 97%); }
