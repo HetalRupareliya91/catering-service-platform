@@ -1,0 +1,10 @@
+{
+  "name": "Royal Feast Catering",
+  "short_name": "Royal Feast",
+  "description": "Book catering for weddings, corporate events and parties",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#b4472a",
+  "icons": []
+}
