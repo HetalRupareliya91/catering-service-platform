@@ -1,0 +1,3 @@
+/* Packages admin panel styles */
+.table--packages th { border-bottom-color: hsl(106, 62%, 46%); }
+.table--packages tbody tr:hover { background: hsl(106, 70%, 97%); }

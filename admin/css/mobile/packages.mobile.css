@@ -1,0 +1,4 @@
+/* Packages admin mobile layout */
+@media (max-width: 640px) {
+  .table--packages tbody tr { border-left: 4px solid hsl(106, 62%, 46%); }
+}
