@@ -1,0 +1,3 @@
+/* Menu Items cards */
+.card--menu-items { border-top: 4px solid hsl(59, 62%, 46%); }
+.card--menu-items h3 { color: hsl(59, 55%, 30%); }
