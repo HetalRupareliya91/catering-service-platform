@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin - Royal Feast Catering</title>
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+  <section id="login" class="login" hidden>
+    <form id="login-form" class="login__card">
+      <h1>Admin Panel</h1>
+      <p class="muted">Royal Feast Catering</p>
+      <label class="field"><span>Email</span><input name="email" type="email" value="admin@catering.local" required></label>
+      <label class="field"><span>Password</span><input name="password" type="password" required></label>
+      <button class="btn btn--primary" type="submit">Sign in</button>
+    </form>
+  </section>
+
+  <div id="shell" class="shell" hidden>
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar__brand">Royal Feast <small>Admin panel</small></div>
+      <nav id="side-nav"></nav>
+      <button id="logout" class="btn btn--ghost">Log out</button>
+    </aside>
+    <div class="main">
+      <header class="main__bar">
+        <button id="menu-toggle" class="menu-toggle" aria-label="Open menu">&#9776;</button>
+        <h1 id="page-title">Dashboard</h1>
+      </header>
+      <section id="content" class="content"></section>
+    </div>
+  </div>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal__card">
+      <h2 id="modal-title"></h2>
+      <form id="modal-form" class="form"></form>
+    </div>
+  </div>
+  <div id="toast" class="toast"></div>
+
+  <script src="js/api.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>
