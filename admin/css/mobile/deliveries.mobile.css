@@ -1,0 +1,4 @@
+/* Deliveries admin mobile layout */
+@media (max-width: 640px) {
+  .table--deliveries tbody tr { border-left: 4px solid hsl(263, 62%, 46%); }
+}
