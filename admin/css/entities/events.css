@@ -1,0 +1,3 @@
+/* Events admin panel styles */
+.table--events th { border-bottom-color: hsl(200, 62%, 46%); }
+.table--events tbody tr:hover { background: hsl(200, 70%, 97%); }
