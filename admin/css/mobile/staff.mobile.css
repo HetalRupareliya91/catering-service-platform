@@ -1,0 +1,4 @@
+/* Staff admin mobile layout */
+@media (max-width: 640px) {
+  .table--staff tbody tr { border-left: 4px solid hsl(341, 62%, 46%); }
+}
